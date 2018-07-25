@@ -1,0 +1,14 @@
+Funciton Checklist
+1.Define your function with def
+2.function name can only have chracters and underscores
+3.open parentesis right after function name
+4.Put arguments in the parenthesis seperated by commas
+5.make each argument unique
+6.close parenthesis and put colon
+7.indent all lines included in the functions by 4 
+8. End function by deindenting
+
+1.Use funciton by typing its name2. 
+2. put the ( character after the name
+3. put hte values inside the parentesis
+4. close the parenthesis

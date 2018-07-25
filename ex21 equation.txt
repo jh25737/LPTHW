@@ -1,0 +1,1 @@
+age - (height - (weight * (iq/2))
